@@ -1,2 +1,1 @@
-# Bank-M
-anagement-system
+# Bank-Management-system
